@@ -14,8 +14,8 @@ Most of my work involves building APIs, event-driven services, and scalable back
 ### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Java-CD5D56?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![Scala](https://img.shields.io/badge/Java-4DFD98?style=for-the-badge\&logo=scala\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-CD5D56?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-4DFD98?style=for-the-badge\&logo=scala\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### Backend
